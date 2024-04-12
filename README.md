@@ -1,7 +1,7 @@
 # :hammer: | Başlatma
 - İlk öncelikle projeyi indirin. (**git** veya **manuel indirme**)
 - Projeyi açıp `config.js` dosyasındaki gerekli bilgileri doldurunuz.
-- Daha sonra ana `CMD`'yi açıp şu kodları yazın; `npm install && npm start`
+- Daha sonra ana `CMD`'yi açıp şu kodları yazın; `npm install && node .`
 - Tebrikler, artık botunuz aktiftir :tada:
 
 # :tada: | Uyarı
